@@ -1,0 +1,5 @@
+hola mundo >> texto.txt
+ls
+
+
+echo hola mundo
